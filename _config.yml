@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site's currently under construction"
+title                    : "Hello There!"
 title_separator          : "-"
 name                     : &name "Towhid Zaman"
 description              : &description "personal description"
