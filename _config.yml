@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Towhid's Homepage"
+title                    : "Site's currently under construction"
 title_separator          : "-"
 name                     : &name "Towhid Zaman"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Towhid Zaman"
   avatar           : "profile_pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineer at Samsung Research"
   location         : "Dhaka, Bangladesh"
-  employer         : "Samsung R&D Institute of Bangladesh"
+  employer         : #"Samsung R&D Institute of Bangladesh"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "towhid1zaman@gmail.com"
